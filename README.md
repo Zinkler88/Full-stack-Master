@@ -21,8 +21,8 @@ Hello! I created this list and I will update it with new resources, information,
 * Get started with React :  https://udilia.com/courses/learn-react-by-building-a-web-app/1
 * React for Absolute Beginners : https://www.eduonix.com/dashboard/react-for-absolute-beginners
 * Best react UI Components : 
-  ** Part I : https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4
-  ** Part II : https://blog.bitsrc.io/best-react-ui-component-libraries-for-2018-part-2-d231dcb04c0a
+  1. Part I : https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4
+  2. Part II : https://blog.bitsrc.io/best-react-ui-component-libraries-for-2018-part-2-d231dcb04c0a
 * React Routing : https://reacttraining.com/react-router/web/guides/philosophy 
 * Fullstack React Book: https://github.com/fullstackreact/react-yelp-clone
 
@@ -53,8 +53,8 @@ Redux provides a solid, stable and mature solution to managing state in your Rea
 
 * From their website: Learn one way to build applications with Angular and reuse your code and abilities to build apps for any deployment target. For web, mobile web, native mobile and native desktop.
 
-** Material design : https://material.angular.io/
-** Hands-on tutorials : https://angular.io/
+* Material design : https://material.angular.io/
+* Hands-on tutorials : https://angular.io/
 
 * From Experts: https://egghead.io/browse/frameworks/angular
 * Angular quickstart : https://codecraft.tv/courses/angular/quickstart/overview/
