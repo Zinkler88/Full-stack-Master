@@ -63,7 +63,7 @@ Redux provides a solid, stable and mature solution to managing state in your Rea
 ## Master VueJs
 
 
-* complete api cheat sheet : https://medium.com/vuejs-tips/vue-js-2-2-complete-api-cheat-sheet-c30482a9e936
+* Complete api cheat sheet : https://medium.com/vuejs-tips/vue-js-2-2-complete-api-cheat-sheet-c30482a9e936
 
 
 ## Master React-Native
