@@ -1,4 +1,4 @@
-# Full-Stack-Master
+# Full-Stack-Machine-Learning-&-Deep-Learning-Master
 Free resources for learning Full Stack Web Development & Machine Learning.
 If you don't have the money, and/or just don't want to pay for grabing new skills, you can take many of courses for free.
 
