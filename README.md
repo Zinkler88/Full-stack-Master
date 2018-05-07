@@ -74,6 +74,10 @@ Redux provides a solid, stable and mature solution to managing state in your Rea
 * 25 React Native Tutorials : https://codeburst.io/25-react-native-tutorials-5b613e3f46ac
 
 
+## Master SQL 
+
+* Platform to practice SQL commands : https://community.modeanalytics.com/sql/
+
 
 ## Master Machine Learning Deep Learning
 
