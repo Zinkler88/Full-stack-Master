@@ -78,7 +78,7 @@ Redux provides a solid, stable and mature solution to managing state in your Rea
 
 * Udacity course : https://classroom.udacity.com/courses/ud198
 * Tutorial + Platform to practice SQL commands without installing programs : https://community.modeanalytics.com/sql/
-* Another great website http://www.sql-easy.com/
+* Another great website to practice easily : http://www.sql-easy.com/
 
 ## Master Python for Data science
 
