@@ -79,7 +79,8 @@ Redux provides a solid, stable and mature solution to managing state in your Rea
 * Udacity course : https://classroom.udacity.com/courses/ud198
 * Tutorial + Platform to practice SQL commands without installing programs : https://community.modeanalytics.com/sql/
 * Another great website to practice easily : http://www.sql-easy.com/
-* For professional purpose Create Free instance in the Cloud IBM Db2 : https://www.coursera.org/learn/sql-data-science/supplement/gDWpB/hands-on-lab-provision-a-cloud-hosted-database-instance
+* Create Free instance in the Cloud IBM Db2 and practice : https://www.coursera.org/learn/sql-data-science/supplement/gDWpB/hands-on-lab-provision-a-cloud-hosted-database-instance
+* More ressources : https://www.w3resource.com/sql/tutorials.php
 
 ## Master Python for Data science
 
