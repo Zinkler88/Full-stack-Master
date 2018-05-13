@@ -101,8 +101,6 @@ Redux provides a solid, stable and mature solution to managing state in your Rea
 
 ## Ultimate Starter-Kit for #DataScience & #MachineLearning:
 
-- - - 
-
 1. Foundational Skills 
 
 • Programming Python - Codecademy https://lnkd.in/gGQ7cuv 
