@@ -135,46 +135,54 @@ Redux provides a solid, stable and mature solution to managing state in your Rea
 ## After surfing the net, My selected curriculum for Machine Learning path in 2018: (Reported from Facebook Group)
 
 1- Learn Python
-Guide to Data Mining 
-https://www.udemy.com/a-beginners-guide-to-data-mining/learn/v4/t/lecture/9477340?start=0
-practical python from data Analyst 
-https://www.udemy.com/learn-practical-python-3-for-beginners-2018/learn/v4/t/lecture/9285266?start=0
-Data Visualization, Speech Recognition & AI Web Scaping
-https://www.udemy.com/python-complete/learn/v4/overview
-Deep Learning prerequisities
-https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/overview
+Guide to Data Mining : https://www.udemy.com/a-beginners-guide-to-data-mining/learn/v4/t/lecture/9477340?start=0
+
+practical python from data Analyst : https://www.udemy.com/learn-practical-python-3-for-beginners-2018/learn/v4/t/lecture/9285266?start=0
+
+Data Visualization, Speech Recognition & AI Web Scaping : https://www.udemy.com/python-complete/learn/v4/overview
+
+Deep Learning prerequisities : https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/overview
 
 1- Introduction to Data Science : https://www.coursera.org/specializations/data-science
+
 2- Mathematics for Machine Learning : https://www.coursera.org/speci…/mathematics-machine-learning
+
 3- Statistics : https://www.coursera.org/specializations/statistics
+
 4- Machine Learning : 
 https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/t/lecture/5853250?start=0 https://www.coursera.org/specializations/machine-learning
+
 5- Deep Learning
+
 Simplified DeepLearning : https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu 
+
 Hacker's guide to Neural Networks : http://bit.ly/karpathyneuralnets
+
 Geoffrey Hinton : https://www.coursera.org/learn/neural-networks
+
 Stanford NLP with Deep Learning : http://cs224d.stanford.edu/syllabus.html
+
 6- Social Network & Graph Analysis : http://bit.ly/stanford-socialeconnetworks
+
 7- NLP Stanford NLP : http://web.stanford.edu/class/cs124/
+
 8- Big Data Analytics : http://blogs.ischool.berkeley.edu/i290-abdt-s12/
 
 Big Data Specialization
 
 https://www.coursera.org/specializations/big-data-engineering
-Big Data for Data Engineers Specialization
-https://www.coursera.org/specializations/big-data
-Big Data Cloudera Certification
-https://www.youtube.com/watch?v=7jQ-PaqLxJw&list=PLf0swTFhTI8rJvGpOp-LujOcpk-Rlz-yE
-Big Data on Google Cloud
-https://www.coursera.org/specializations/gcp-data-machine-learning?utm_source=google_cloud&utm_medium=ai_hub&utm_campaign=data_engineer_specialization
+
+Big Data for Data Engineers Specialization : https://www.coursera.org/specializations/big-data
+
+Big Data Cloudera Certification : https://www.youtube.com/watch?v=7jQ-PaqLxJw&list=PLf0swTFhTI8rJvGpOp-LujOcpk-Rlz-yE
+
+Big Data on Google Cloud : https://www.coursera.org/specializations/gcp-data-machine-learning utm_source=google_cloud&utm_medium=ai_hub&utm_campaign=data_engineer_specialization
 
 
-Data Scientist in 3 Months RoadMap 
-https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
+Data Scientist in 3 Months RoadMap : https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 
 
-Books : in google drive
-https://drive.google.com/drive/folders/1kHY18VBZGVIJHOisKTG-fqPdnv3WqhNE
+Books in google drive : https://drive.google.com/drive/folders/1kHY18VBZGVIJHOisKTG-fqPdnv3WqhNE
 
 
 
