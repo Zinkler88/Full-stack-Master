@@ -166,15 +166,13 @@ Stanford NLP with Deep Learning : http://cs224d.stanford.edu/syllabus.html
 
 8- Big Data Analytics : http://blogs.ischool.berkeley.edu/i290-abdt-s12/
 
-Big Data Specialization
-
-https://www.coursera.org/specializations/big-data-engineering
+Big Data Specialization : https://www.coursera.org/specializations/big-data-engineering
 
 Big Data for Data Engineers Specialization : https://www.coursera.org/specializations/big-data
 
 Big Data Cloudera Certification : https://www.youtube.com/watch?v=7jQ-PaqLxJw&list=PLf0swTFhTI8rJvGpOp-LujOcpk-Rlz-yE
 
-Big Data on Google Cloud : https://www.coursera.org/specializations/gcp-data-machine-learning utm_source=google_cloud&utm_medium=ai_hub&utm_campaign=data_engineer_specialization
+Big Data on Google Cloud : https://www.coursera.org/specializations/gcp-data-machine-learning?utm_source=google_cloud&utm_medium=ai_hub&utm_campaign=data_engineer_specialization 
 
 
 Data Scientist in 3 Months RoadMap : https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
