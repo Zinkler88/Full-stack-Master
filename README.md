@@ -7,8 +7,6 @@ Hello! I created this list and I will update it with new resources, information,
 
 
 
-
-
 ## Roadmap to Front-End & Full-Stack Development with Javascript Stack
 
 * http://blog.ilovecoding.org/roadmap/
@@ -86,6 +84,7 @@ Redux provides a solid, stable and mature solution to managing state in your Rea
 
 * Udacity course : https://classroom.udacity.com/courses/ud1110
 * My best python guide : https://community.modeanalytics.com/python/
+* Free Certificates from IBM Data science : https://cognitiveclass.ai/ 
 
 
 ## Master Machine Learning Deep Learning
