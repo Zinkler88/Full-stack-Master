@@ -83,8 +83,8 @@ Redux provides a solid, stable and mature solution to managing state in your Rea
 ## Master Python for Data science
 
 * Udacity course : https://classroom.udacity.com/courses/ud1110
-* My best python guide : https://community.modeanalytics.com/python/
 * Free Certificates from IBM Data science : https://cognitiveclass.ai/ 
+* Python guide : https://community.modeanalytics.com/python/
 
 
 ## Master Machine Learning Deep Learning
@@ -165,11 +165,11 @@ Stanford NLP with Deep Learning : http://cs224d.stanford.edu/syllabus.html
 
 8- Big Data Analytics : http://blogs.ischool.berkeley.edu/i290-abdt-s12/
 
-- Big Data Specialization : https://www.coursera.org/specializations/big-data-engineering
+ i.- Big Data Specialization : https://www.coursera.org/specializations/big-data-engineering
 
-- Big Data for Data Engineers Specialization : https://www.coursera.org/specializations/big-data
+ii.- Big Data for Data Engineers Specialization : https://www.coursera.org/specializations/big-data
 
-- Big Data Cloudera Certification : https://www.youtube.com/watch?v=7jQ-PaqLxJw&list=PLf0swTFhTI8rJvGpOp-LujOcpk-Rlz-yE
+iii.- Big Data Cloudera Certification : https://www.youtube.com/watch?v=7jQ-PaqLxJw&list=PLf0swTFhTI8rJvGpOp-LujOcpk-Rlz-yE
 
 - Big Data on Google Cloud : https://www.coursera.org/specializations/gcp-data-machine-learning?utm_source=google_cloud&utm_medium=ai_hub&utm_campaign=data_engineer_specialization 
 
